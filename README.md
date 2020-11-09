@@ -8,4 +8,4 @@
 
 | Stats  | Languages |
 | ------------- | ------------- |
-| <a href="https://goldinwebdesign.com"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GoldinGuy&count_private=true&show_icons=true" /></a>   | <a href="https://goldinwebdesign.com"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldinGuy&layout=compact&count_private=true" /></a>   |
+| <a href="https://goldinwebdesign.com"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GoldinGuy&count_private=true&show_icons=true&include_all_commits=true&langs_count=7" /></a>   | <a href="https://goldinwebdesign.com"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldinGuy&layout=compact&count_private=true&include_all_commits=true" /></a>   |
