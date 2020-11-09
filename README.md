@@ -1,6 +1,6 @@
-# Hi 👋, I'm Seth! ✨
+# Hi 👋, I'm Seth! 
 
-- 😀 Working on various programming projects 
+- ✨ Working on various programming projects 
 - 💬 Chat with me on [Discord](https://discord.gg/gKYSMeJ) about web/app dev, data science, or anything else
 - 📫 Reach me for professional inquiries at seth@goldinwebdesign.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/seth-goldin-a3a46818b/)
 
