@@ -8,4 +8,5 @@
 
 [![GoldinGuy's github stats](https://github-readme-stats.vercel.app/api?username=goldinguy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+| ------------- | ------------- |
 | <a href="https://goldinwebdesign.com"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GoldinGuy&theme=vue&show_icons=true" /></a>  | <a href="https://goldinwebdesign.com"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldinGuy&layout=compact&theme=vue" /></a>  |
