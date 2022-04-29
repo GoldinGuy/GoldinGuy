@@ -2,7 +2,7 @@
 
 - ✨ Working on various programming projects 
 - 💬 Chat with me on [Discord](https://discord.gg/gKYSMeJ) about web/app dev, data science, or anything else
-- 📫 Reach me for professional inquiries at seth@goldinwebdesign.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
+- 📫 Reach me at [seth@goldin.io](mailto:seth@goldin.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
 
 <!-- <a href="https://www.linkedin.com/in/seth-goldin-a3a46818b/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
