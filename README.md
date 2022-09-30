@@ -1,6 +1,6 @@
 # Hi 👋, I'm Seth! 
 
-- ✨ Working on various programming projects 
+- ✨ Building [Friday](https://friday.education)
 - 💬 Chat with me on [Discord](https://discord.gg/gKYSMeJ) about web/app dev, data science, or anything else
 - 📫 Reach me at [seth@goldin.io](mailto:seth@goldin.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
 
