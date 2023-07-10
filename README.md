@@ -1,8 +1,8 @@
-# Hi 👋, I'm Seth! 
+# hi, i'm seth 👋
 
-- ✨ Building [Friday](https://friday.education)
-- 💬 Chat with me on [Discord](https://discord.gg/gKYSMeJ) about web/app dev, data science, or anything else
-- 📫 Reach me at [seth@goldin.io](mailto:seth@goldin.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
+- ✨ Building [Friday](https://friday.page)
+- 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
+- 📫 Reach me at [seth@goldin.io](mailto:seth@goldin.io)
 
 <!-- <a href="https://www.linkedin.com/in/seth-goldin-a3a46818b/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
