@@ -1,4 +1,4 @@
-# hi, i'm seth 👋
+# hi, I'm seth 👋
 
 - ✨ Building [Friday](https://friday.page)
 - 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
