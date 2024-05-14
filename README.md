@@ -1,6 +1,5 @@
 # hi, I'm seth 👋
 
-- ✨ Building [Something](https://something.computer/)
 - 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/sethgoldin/)
 - 📫 Reach me at [seth.goldin@yale.edu](mailto:seth.goldin@yale.edu)
 
